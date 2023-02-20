@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Animation </title>
+</head>
+<body>
+<marquee bgcolor="yellow" behavior="alternate" scrollamount="10"><h1> ABOUT  MY  COLLEGE </h1></marquee>
+<a href="https://www.mcemotihari.ac.in/"> Click to visit our college </a>
+<p>Motihari College of Engineering, Motihari is a Government Engineering College 
+  fully funded by the government of Bihar, India. It is managed by 
+ <br> Department of Science and Technology, Bihar, along with 38 Government
+   Engineering Colleges of Bihar. The college is affiliated to</br>
+    Aryabhatta Knowledge University, Patna and approved by AICTE, New-Delhi.
+</p>
+<marquee bgcolor="yellow" behavior="alternate" scrollamount="15"><h2 > HISTORY </h2></marquee>
+<a href=""> Click here to visit History </a>
+<p> Previously the institute was known as Indian College of Engineering-Motihari 
+  and was established in 1980. In 1994 all staffs and students were transferred to other
+   <br> engineering colleges of Bihar and the institute was shut down due to some political reason. 
+   Later in November 2008, the Government reopen
+   the institute & the name was changed from Indian College of Engineering to Motihari College of Engineering </br></p>
+</body>
+</html>
